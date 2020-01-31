@@ -2,6 +2,9 @@
 
 The School ERP System (https://sourceforge.net/projects/school-erp-ultimate/files/) is vulnerable to CSRF that leads to adding a new Admin user, and deleting an arbitrary user.
 
+CVE-2020-8504
+CVE-2020-8505
+
 Proof of Concept code for adding an administrative user:
 
 ````
